@@ -3,7 +3,7 @@ const World= Matter.World;
 const Bodies = Matter.Bodies;
 
 var engine, world;
-var stone, iron,rubber,hammer;
+var stone, iron,rubber,hammer,plane;
 var sand1, sand2, sand3, sand4,sand5,sand6;
 
 function setup(){
